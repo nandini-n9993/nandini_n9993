@@ -2,8 +2,11 @@
 
 
 ##  About Me
+
 **Computer Science Engineering Student** at Ballari Institute of Technology and Management (BITM), Karnataka.
+
 I am passionate about building real-world software solutions and continuously learning new technologies. 
+
 My interests include **Full Stack Development, Artificial Intelligence, Data Science, Cybersecurity, and IoT**.
 
 ---
